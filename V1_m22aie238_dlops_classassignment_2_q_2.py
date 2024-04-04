@@ -125,7 +125,7 @@ for optimizer_name, optimizer in optimizers.items():
     print(f'Top-3 Test Accuracy using {optimizer_name} optimizer: {top5_acc:.4f}')
 
 
-
+print("Roll forward activity")
 
 
 
